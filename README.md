@@ -1,16 +1,68 @@
-# My Stack Overflow Contributions
+# My Stack Overflow Questions Archive
 
-I actively contribute to the Stack Overflow community by asking and answering questions. Below are some of my top contributions:
+Welcome! This repository contains a curated list of all the questions I have asked on Stack Overflow. It’s a reflection of my learning journey, problem-solving process, and the challenges I’ve tackled in software development.
 
-### My Stack Overflow Contributions
+---
 
-| **Type**     | **Title**                                  | **Link**                                                                 |
-|--------------|--------------------------------------------|---------------------------------------------------------------------------|
-| **Question** | How to solve issue X in Python?            | [Link](https://stackoverflow.com/questions/xxxxxxxxx/how-to-solve-issue-x-in-python) |
-| **Question** | How to optimize performance of Y in JS?    | [Link](https://stackoverflow.com/questions/xxxxxxxxx/how-to-optimize-performance-of-y-in-javascript) |
-| **Question** | What is the best approach to Z in C#?      | [Link](https://stackoverflow.com/questions/xxxxxxxxx/what-is-the-best-approach-to-z-in-c-sharp) |
-| **Answer**   | Answer to solving problem A with Python    | [Link](https://stackoverflow.com/questions/xxxxxxxxx/answer-to-solving-problem-a-with-python) |
-| **Answer**   | Answer to optimizing B in React            | [Link](https://stackoverflow.com/questions/xxxxxxxxx/answer-to-optimizing-b-in-react) |
-| **Answer**   | Answer to handling C in Java               | [Link](https://stackoverflow.com/questions/xxxxxxxxx/answer-to-handling-c-in-java) |
+## About This Repository
 
-You can find more of my contributions on [my Stack Overflow profile](https://stackoverflow.com/users/your-user-id).
+- **Purpose:** To showcase my questions on Stack Overflow for reference, learning, and collaboration.
+- **Contents:** Links to each question with brief descriptions and relevant tags.
+- **Audience:** Fellow developers, recruiters, and anyone interested in my technical inquiries.
+
+---
+
+## How to Use This Repository
+
+- Browse questions by topic or tag.
+- Click the links to view the full discussion on Stack Overflow.
+- Use the summaries to quickly understand the context of each question.
+
+---
+
+## My Stack Overflow Questions
+
+| Question Title                                      | Tags                       | Link                                                                 | Summary                                                            |
+|----------------------------------------------------|----------------------------|----------------------------------------------------------------------|--------------------------------------------------------------------|
+| Yii2:-Pretty URL's are formed, but not working (says 404 NOT FOUND)    | php, apache, .htaccess, yii2, pretty-urls            | [View on Stack Overflow](https://stackoverflow.com/questions/41239858/yii2-pretty-urls-are-formed-but-not-working-says-404-not-found) | Discussed how to made Pretty Url's working in Yii2.   |
+| My htaccess rule not wroking for a project on live server (htaccess is inside the folder)                   | .htaccess, mod-rewrite, url-rewriting, friendly-url        | [View on Stack Overflow](https://stackoverflow.com/questions/39630266/my-htaccess-rule-not-wroking-for-a-project-on-live-server-htaccess-is-inside-th) | Discussed how to remove file extension coming in URL using htaccess.             |
+| Two FIND_IN_SET in a single query is not working                     | php, mysql     | [View on Stack Overflow](https://stackoverflow.com/questions/38237877/two-find-in-set-in-a-single-query-is-not-working) | Asked regarding how to use FIND_IN_SET twice in a single query   |
+| linkedIn javascript SDK suddenly stopped working without showing any error    | linkedin-api, linkedin-jsapi            | [View on Stack Overflow](https://stackoverflow.com/questions/54472894/linkedin-javascript-sdk-suddenly-stopped-working-without-showing-any-error) | Discussed regarding LinkedIn login sdk not working and steps to resolve the same.   |
+| Restricted selection of check boxes (one category and one subcategory at a time)                   | php, wordpress        | [View on Stack Overflow](https://stackoverflow.com/questions/30415118/restricted-selection-of-check-boxes-one-category-and-one-subcategory-at-a-time) | Discussed how to select a main category and any of it's sub-category all checkbox at a time.             |
+| Stripe : Shift my customer from one product's recurring price plan to the same product's new recurring price plan?                     | php, stripe-payments     | [View on Stack Overflow](https://stackoverflow.com/questions/76703408/stripe-shift-my-customer-from-one-products-recurring-price-plan-to-the-same-p) | Asked regarding how to shift customer from one plan to another plan in stripe using there APIs   | 
+| Add domain to <img> src attribute value if a relative path    | php, regex, dom, replace, src            | [View on Stack Overflow](https://stackoverflow.com/questions/70503165/add-domain-to-img-src-attribute-value-if-a-relative-path) | Asked regarding how to check specific pathas and modify the same in a text variable containing multiple images data.   |
+| Update one table column data to another table column along with unique,duplicate check and update with suffix on duplicate                   | mysql        | [View on Stack Overflow](https://stackoverflow.com/questions/69793098/update-one-table-column-data-to-another-table-column-along-with-unique-duplicate) | Discussed how to add prefix while updating duplicates from one table column while updating its data from another table column and apply other checks as well.             |
+| Make denomination program using php                     | php     | [View on Stack Overflow](https://stackoverflow.com/questions/68015625/make-denomination-program-using-php) | Asked regarding how to make denomination programmatically    |
+| Machform integration with Salesforce    | salesforce, machform            | [View on Stack Overflow](https://stackoverflow.com/questions/46598707/machform-integration-with-salesforce) | Discussed regarding sending matchform user data over salesforce.   |
+| Remove div html which contains link from the description column of a table using MYSql query                   | mysql        | [View on Stack Overflow](https://stackoverflow.com/questions/79345337/remove-div-html-which-contains-link-from-the-description-column-of-a-table-using) | Discussed how to remove div html from a description column in MySql using pure query by apply link checks.             |
+| Git clone/push issue: error: RPC failed; curl 16 Error in the HTTP2 framing layerB/s                     | github     | [View on Stack Overflow](https://stackoverflow.com/questions/78267333/git-clone-push-issue-error-rpc-failed-curl-16-error-in-the-http2-framing-laye) | Asked regarding how to fix git clone issue occur at my workplace   |
+| Mysql : get column value,explode it and make it ascending and then implode it back and save but through query only                     | mysql     | [View on Stack Overflow](https://stackoverflow.com/questions/76975458/mysql-get-column-value-explode-it-and-make-it-ascending-and-then-implode-it-ba) | Asked regarding how to re-arrange a mysql table column value using query in one go   |
+| Localhost/Phpmyadmin: when exporting a database a very unusual file in kb getting downloaded and it has only errors                     | github     | [View on Stack Overflow](https://stackoverflow.com/questions/76233404/localhost-phpmyadmin-when-exporting-a-database-a-very-unusual-file-in-kb-gettin) | Asked regarding how to fix export database not working on local machine   |
+
+---
+
+## How I Compiled These Questions
+
+I used the Stack Exchange API to fetch all my questions and formatted them here for easy access. You can automate this process using:
+
+- [Stack Exchange Data Explorer](https://data.stackexchange.com/)
+- Custom scripts with the [Stack Exchange API](https://api.stackexchange.com/)
+- Tools like [stack-exchange-backup](https://github.com/mhdadk/stack-exchange-backup)
+
+---
+
+## Feedback & Contributions
+
+If you have any feedback or want to discuss any of these questions, feel free to open an issue or contact me directly!
+
+---
+
+## Contact
+
+- **Stack Overflow Profile:** [Your Profile](https://stackoverflow.com/users/youruserid)
+- **Email:** your.email@example.com
+- **LinkedIn:** [Your LinkedIn](https://linkedin.com/in/yourprofile)
+
+---
+
+*Thank you for visiting! I hope these questions help you as much as they helped me grow.*
