@@ -38,6 +38,9 @@ Welcome! This repository contains a curated list of all the questions I have ask
 | Git clone/push issue: error: RPC failed; curl 16 Error in the HTTP2 framing layerB/s                     | github     | [View on Stack Overflow](https://stackoverflow.com/questions/78267333/git-clone-push-issue-error-rpc-failed-curl-16-error-in-the-http2-framing-laye) | Asked regarding how to fix git clone issue occur at my workplace   |
 | Mysql : get column value,explode it and make it ascending and then implode it back and save but through query only                     | mysql     | [View on Stack Overflow](https://stackoverflow.com/questions/76975458/mysql-get-column-value-explode-it-and-make-it-ascending-and-then-implode-it-ba) | Asked regarding how to re-arrange a mysql table column value using query in one go   |
 | Localhost/Phpmyadmin: when exporting a database a very unusual file in kb getting downloaded and it has only errors                     | github     | [View on Stack Overflow](https://stackoverflow.com/questions/76233404/localhost-phpmyadmin-when-exporting-a-database-a-very-unusual-file-in-kb-gettin) | Asked regarding how to fix export database not working on local machine   |
+| Manipulate ResultSet Array and make it Multidimensional                     | php, arrays, multidimensional-array     | [View on Stack Overflow](https://stackoverflow.com/questions/30798614/manipulate-resultset-array-and-make-it-multidimensional) | Asked about manipulating single-dimentional array and making it multi-dimensional based of different checks   |
+| Slick slider working fine,But gives an unwanted error in console                     | javascript, jquery, slick.js     | [View on Stack Overflow](https://stackoverflow.com/questions/54627438/slick-slider-working-fine-but-gives-an-unwanted-error-in-console) | Asked regarding how to fix developer console issue coming related to slick slider while slider is working fine on the web/mobile   |
+
 
 ---
 
