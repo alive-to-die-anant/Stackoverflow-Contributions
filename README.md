@@ -64,7 +64,7 @@ If you have any feedback or want to discuss any of these questions, feel free to
 
 - **Stack Overflow Profile:** [Death-is-the-real-truth](https://stackoverflow.com/users/4248328/death-is-the-real-truth)
 - **Email:** aks03101988@gmail.com
-- **LinkedIn:** [Your LinkedIn](https://www.linkedin.com/in/anant-singh-a31199348/)
+- **LinkedIn:** [Anant Kumar Singh](https://www.linkedin.com/in/anant-singh-a31199348/)
 
 ---
 
